@@ -1,3 +1,3 @@
-# dagger-2.13
-Steps of
-https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46
+# android-dagger-mvvm
+Kotlin versin of
+https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c
